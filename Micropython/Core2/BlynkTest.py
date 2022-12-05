@@ -23,10 +23,10 @@ import M5BlynkLib
 import network
 import machine
 
-WIFI_SSID = 'ATTR9tNp5S'
-WIFI_PASS = '8jx5cda9hpg='
+WIFI_SSID = 'ND-guest'
+WIFI_PASS = ''
 
-BLYNK_AUTH = 'L1_427mM05GzJ-M4Hl_npXIT6iSJ59nT' # Quickstart
+BLYNK_AUTH = 'XXXX' # Quickstart
 
 lcd.fill(0x000000)
 lcd.clear()

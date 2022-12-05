@@ -15,8 +15,8 @@
 #define BLYNK_DEVICE_NAME           "Quickstart Device"
 #define BLYNK_AUTH_TOKEN            "L1_427mM05GzJ-M4Hl_npXIT6iSJ59nT"
 #define BLYNK_AUTH_TOKEN_B          "TUY6iHNgWq0FA8Ueq9_Lrw4O6axRlqjP"
-#define MY_SSID                     "ATTR9tNp5S"
-#define MY_PASS                     "8jx5cda9hpg="
+#define MY_SSID                     "ND-guest"
+#define MY_PASS                     ""
 
 // #define BLYNK_PRINT Serial
 
