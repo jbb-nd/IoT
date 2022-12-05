@@ -24,9 +24,6 @@ from BlynkTimer import BlynkTimer
 import network
 import machine
 
-# WIFI_SSID = 'ATTR9tNp5S'
-# WIFI_PASS = '8jx5cda9hpg='
-
 WIFI_SSID = 'ND-guest'
 WIFI_PASS = ''
 
