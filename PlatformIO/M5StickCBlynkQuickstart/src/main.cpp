@@ -6,9 +6,9 @@
 
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
-#define BLYNK_TEMPLATE_ID           "TMPLgwrzfHok"
+#define BLYNK_TEMPLATE_ID           "XXXX"
 #define BLYNK_DEVICE_NAME           "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "L1_427mM05GzJ-M4Hl_npXIT6iSJ59nT"
+#define BLYNK_AUTH_TOKEN            "XXXX"
 
 
 // Comment this out to disable prints and save space
@@ -25,10 +25,8 @@ char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-// char ssid[] = "ND-guest";
-// char pass[] = "";
-char ssid[] = "ATTR9tNp5S";
-char pass[] = "8jx5cda9hpg=";
+char ssid[] = "ND-guest";
+char pass[] = "";
 
 BlynkTimer timer;
 
